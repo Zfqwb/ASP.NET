@@ -1,0 +1,27 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Module2\Lesson3\bin\Debug\Lesson3.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Module2\Lesson3\bin\Debug\Lesson3.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Module2\Lesson3\bin\Debug\Lesson3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Module2\Lesson3\obj\Debug\Lesson3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Module2\Lesson3\obj\Debug\Lesson3.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Module2\Lesson3\obj\Debug\Lesson3.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Module2\Lesson3\obj\Debug\Lesson3.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Module2\Lesson3\obj\Debug\Lesson3.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Module2\Lesson3\obj\Debug\Lesson3.pdb
+G:\新建文件夹\Module2\Lesson3\bin\Debug\Lesson3.exe.config
+G:\新建文件夹\Module2\Lesson3\obj\Debug\Lesson3.exe
+G:\新建文件夹\Module2\Lesson3\obj\Debug\Lesson3.pdb
+G:\新建文件夹\Module2\Lesson3\bin\Debug\Lesson3.exe
+G:\新建文件夹\Module2\Lesson3\bin\Debug\Lesson3.pdb
+G:\新建文件夹\Module2\Lesson3\obj\Debug\Lesson3.csprojResolveAssemblyReference.cache
+G:\新建文件夹\Module2\Lesson3\obj\Debug\Lesson3.Form1.resources
+G:\新建文件夹\Module2\Lesson3\obj\Debug\Lesson3.Properties.Resources.resources
+G:\新建文件夹\Module2\Lesson3\obj\Debug\Lesson3.csproj.GenerateResource.Cache
+G:\Module2\Lesson3\bin\Debug\Lesson3.exe.config
+G:\Module2\Lesson3\obj\Debug\Lesson3.exe
+G:\Module2\Lesson3\obj\Debug\Lesson3.pdb
+G:\Module2\Lesson3\bin\Debug\Lesson3.exe
+G:\Module2\Lesson3\bin\Debug\Lesson3.pdb
+G:\Module2\Lesson3\obj\Debug\Lesson3.csprojResolveAssemblyReference.cache
+G:\Module2\Lesson3\obj\Debug\Lesson3.Form1.resources
+G:\Module2\Lesson3\obj\Debug\Lesson3.Properties.Resources.resources
+G:\Module2\Lesson3\obj\Debug\Lesson3.csproj.GenerateResource.Cache

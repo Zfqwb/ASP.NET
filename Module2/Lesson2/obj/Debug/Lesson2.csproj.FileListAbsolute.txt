@@ -1,0 +1,11 @@
+c:\users\zhou\documents\visual studio 2013\Projects\Module2\Lesson2\bin\Debug\Lesson2.exe.config
+c:\users\zhou\documents\visual studio 2013\Projects\Module2\Lesson2\bin\Debug\Lesson2.exe
+c:\users\zhou\documents\visual studio 2013\Projects\Module2\Lesson2\bin\Debug\Lesson2.pdb
+c:\users\zhou\documents\visual studio 2013\Projects\Module2\Lesson2\obj\Debug\Lesson2.csprojResolveAssemblyReference.cache
+c:\users\zhou\documents\visual studio 2013\Projects\Module2\Lesson2\obj\Debug\Lesson2.Form1.resources
+c:\users\zhou\documents\visual studio 2013\Projects\Module2\Lesson2\obj\Debug\Lesson2.Properties.Resources.resources
+c:\users\zhou\documents\visual studio 2013\Projects\Module2\Lesson2\obj\Debug\Lesson2.csproj.GenerateResource.Cache
+c:\users\zhou\documents\visual studio 2013\Projects\Module2\Lesson2\obj\Debug\Lesson2.exe
+c:\users\zhou\documents\visual studio 2013\Projects\Module2\Lesson2\obj\Debug\Lesson2.pdb
+C:\Users\zhou\Documents\Visual Studio 2013\Projects\Module2\Lesson2\obj\Debug\Lesson2.AddStudent.resources
+C:\Users\zhou\Documents\Visual Studio 2013\Projects\Module2\Lesson2\obj\Debug\Lesson2.UpdateStudent.resources
